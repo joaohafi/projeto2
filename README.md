@@ -1,3 +1,7 @@
+Rodrigo pozo griecco
+Joao Marcelo El Hafi Batista
+Alysson marinho
+
 # 📋 Task Manager
 
 Um sistema simples e funcional de gerenciamento de tarefas desenvolvido em **Python**, com foco na organização, clareza de código e boas práticas de desenvolvimento.
